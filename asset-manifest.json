@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/box-shadow-generator.git/static/css/main.85d4c963.css",
+    "main.js": "/box-shadow-generator.git/static/js/main.f1caf18d.js",
+    "index.html": "/box-shadow-generator.git/index.html",
+    "main.85d4c963.css.map": "/box-shadow-generator.git/static/css/main.85d4c963.css.map",
+    "main.f1caf18d.js.map": "/box-shadow-generator.git/static/js/main.f1caf18d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85d4c963.css",
+    "static/js/main.f1caf18d.js"
+  ]
+}
